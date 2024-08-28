@@ -29,10 +29,12 @@ https://github.com/LearningOS
 第一阶段 9.25-10.19 : rust学习
 
 做题链接:
+https://classroom.github.com/a/LRZH1r8c
 
 第二阶段 10.20-11.19 : rcore实验
 
 做题链接:
+https://classroom.github.com/a/iHxu5PhD
 
 结果公布:
 
