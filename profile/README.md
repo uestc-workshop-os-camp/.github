@@ -20,7 +20,12 @@ https://github.com/LearningOS
 
 这个活动，我们的题目目前几乎和它一样，但是举办日期不同，并且提供校内工作室的支持，我们也欢迎大家在招新过程中提出建议，并且对于招新加入工作室的成员，会参与进入这个项目的后续迭代工作。
 
-## 时间安排
+## 我们希望
+参加完成整个活动的同学，能对操作系统或系统底层知识产生兴趣。目前我们已经在这方面做工作的同学的方向集中在嵌入式的领域，并且有计划长期的维护开发模块化的嵌入式RTOS。同时我们也鼓励同学有自己的方向选择，并最好找到合适的伙伴让我们把这个活动能持续的办下去，形成一个开源的有价值的校园社区。
+## 唯一可能的前置知识补充
+[计算机教育中缺失的一课](https://missing-semester-cn.github.io/)：精通这些工具不仅可以帮助您更快的使用工具完成任务，并且可以帮助您解决在之前看来似乎无比复杂的问题。
+> 注意：这些只是补充资料，你不必要全都充分了解才开始做题，你完全可以做的过程中遇到不了解的工具的时候再来这里参考
+## 2024开源活动时间安排
 
 宣讲介绍时间:
 
@@ -31,11 +36,17 @@ https://github.com/LearningOS
 做题链接:
 https://classroom.github.com/a/LRZH1r8c
 
-第二阶段 10.20-11.19 : rcore实验
+做题说明:
+https://github.com/uestc-workshop-os-camp/rust-based-os-camp2024/blob/main/2024-summer-info-1.md
+
+第二阶段 10.20-11.25 : rcore实验
 
 做题链接:
 https://classroom.github.com/a/iHxu5PhD
 
+做题说明：
+https://github.com/uestc-workshop-os-camp/rust-based-os-camp2024/blob/main/2024-summer-info-2.md
+
 结果公布:
 
-11.20
+11.27
