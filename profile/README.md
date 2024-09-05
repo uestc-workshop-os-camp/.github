@@ -55,6 +55,6 @@ https://github.com/uestc-workshop-os-camp/rust-based-os-camp2024/blob/main/2024-
 排行榜查看（每30min刷新）：
 https://uestc-os-camp.clovy.top/#/rank
 
-结果公布:
+### 结果公布:
 
 11.27
