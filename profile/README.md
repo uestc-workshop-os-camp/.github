@@ -32,11 +32,11 @@ https://github.com/LearningOS
 
 希望大家都能从中有自己的收获
 
-宣讲介绍时间:
+### 宣讲介绍时间:
 
 9.20
 
-第一阶段 9.25-10.19 : rust学习
+### 第一阶段 9.25-10.19 : rust学习
 
 做题链接:
 https://classroom.github.com/a/LRZH1r8c
@@ -44,7 +44,7 @@ https://classroom.github.com/a/LRZH1r8c
 做题说明:
 https://github.com/uestc-workshop-os-camp/rust-based-os-camp2024/blob/main/2024-summer-info-1.md
 
-第二阶段 10.20-11.25 : rcore实验
+### 第二阶段 10.20-11.25 : rcore实验
 
 做题链接:
 
