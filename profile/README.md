@@ -32,6 +32,9 @@ https://github.com/LearningOS
 
 希望大家都能从中有自己的收获
 
+### 排行榜查看（每30min刷新）：
+https://uestc-os-camp.clovy.top/#/rank
+
 ### 宣讲介绍时间:
 
 9.20
@@ -52,8 +55,6 @@ https://github.com/uestc-workshop-os-camp/rust-based-os-camp2024/blob/main/2024-
 做题说明：
 https://github.com/uestc-workshop-os-camp/rust-based-os-camp2024/blob/main/2024-summer-info-2.md
 
-排行榜查看（每30min刷新）：
-https://uestc-os-camp.clovy.top/#/rank
 
 ### 结果公布:
 
