@@ -26,6 +26,11 @@ https://github.com/LearningOS
 [计算机教育中缺失的一课](https://missing-semester-cn.github.io/)：精通这些工具不仅可以帮助您更快的使用工具完成任务，并且可以帮助您解决在之前看来似乎无比复杂的问题。
 > 注意：这些只是补充资料，你不必要全都充分了解才开始做题，你完全可以做的过程中遇到不了解的工具的时候再来这里参考
 ## 2024开源活动时间安排
+### 注意！！！
+完全不必等到宣讲会之后的时间才开始，如果你现在就看到这里了，那么就可以开始第一阶段的学习了，记得查看题目说明。
+我们的时间安排是对于最迟的开始学习时间，最终的优秀结果是参考做题得分和面试情况的。
+
+希望大家都能从中有自己的收获
 
 宣讲介绍时间:
 
@@ -46,6 +51,9 @@ https://github.com/uestc-workshop-os-camp/rust-based-os-camp2024/blob/main/2024-
 
 做题说明：
 https://github.com/uestc-workshop-os-camp/rust-based-os-camp2024/blob/main/2024-summer-info-2.md
+
+排行榜查看（每30min刷新）：
+https://uestc-os-camp.clovy.top/#/rank
 
 结果公布:
 
