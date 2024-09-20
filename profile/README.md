@@ -50,7 +50,7 @@ https://github.com/uestc-workshop-os-camp/rust-based-os-camp2024/blob/main/2024-
 ### 第二阶段 10.20-11.25 : rcore实验
 
 做题链接:
-
+https://classroom.github.com/a/iHxu5PhD
 
 做题说明：
 https://github.com/uestc-workshop-os-camp/rust-based-os-camp2024/blob/main/2024-summer-info-2.md
