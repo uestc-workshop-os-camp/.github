@@ -39,9 +39,9 @@ https://github.com/LearningOS
 ### 排行榜查看（每 15 min 刷新）：
 https://csinfra.cn/#/rank
 
-### 宣讲介绍时间:
+### 宣讲介绍:
 
-9.26
+9.27 19:00 二教 104
 
 ### 第一阶段 9.25 - 10.19: Rust 学习
 
