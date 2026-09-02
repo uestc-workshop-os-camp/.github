@@ -106,7 +106,7 @@ RDMA101 来源于 Mooncake Transfer Engine 的实际工程经验，旨在为希�
 
 排行榜每 **15 分钟**刷新一次：
 
-https://csinfra.cn/#/rank
+https://csinfra.cn/rank
 
 排行榜主要用于查看做题进度与得分情况，具体计分方式和最终评选规则以后续说明为准。
 
