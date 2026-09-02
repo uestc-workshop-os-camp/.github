@@ -54,8 +54,7 @@ OS 方向主要分为两个阶段。
 
 这一阶段主要熟悉 Rust，并完成后续操作系统实验所需要的语言和编程基础。
 
-* 做题链接：即将公布
-* 学习与环境配置说明：[第一阶段环境配置与学习资料](https://github.com/uestc-workshop-os-camp/rust-based-os-camp-info/blob/main/2026-info-1.md)
+* 实验说明：[第一阶段实验说明](https://github.com/uestc-workshop-os-camp/rust-based-os-camp-info/blob/main/2026-info-1.md)
 
 ## 第二阶段：rCore 操作系统实验
 
@@ -63,8 +62,7 @@ OS 方向主要分为两个阶段。
 
 在这一阶段，你将进入真正的操作系统实验，逐步接触和实现操作系统中的核心机制。
 
-* 做题链接：即将公布
-* 学习与环境配置说明：[第二阶段环境配置与学习资料](https://github.com/uestc-workshop-os-camp/rust-based-os-camp-info/blob/main/2026-info-2.md)
+* 实验说明：[第二阶段实验说明](https://github.com/uestc-workshop-os-camp/rust-based-os-camp-info/blob/main/2026-info-2.md)
 
 OS 方向的实验与学习路线主要参考清华大学计算机系相关课程实验，以及面向社会开放的开源操作系统训练营。
 
@@ -122,13 +120,13 @@ https://csinfra.cn/rank
 
 **九月至十月中旬**
 
-* [第一阶段环境配置与资料](https://github.com/uestc-workshop-os-camp/rust-based-os-camp-info/blob/main/2026-info-1.md)
+* 实验说明：[第一阶段实验说明](https://github.com/uestc-workshop-os-camp/rust-based-os-camp-info/blob/main/2026-info-1.md)
 
 ### 第二阶段：rCore 实验
 
 **十月中旬至十一月中旬**
 
-* [第二阶段环境配置与资料](https://github.com/uestc-workshop-os-camp/rust-based-os-camp-info/blob/main/2026-info-2.md)
+* 实验说明：[第二阶段实验说明](https://github.com/uestc-workshop-os-camp/rust-based-os-camp-info/blob/main/2026-info-2.md)
 
 ## RDMA 方向
 
