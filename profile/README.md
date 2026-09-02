@@ -122,15 +122,13 @@ https://csinfra.cn/rank
 
 **九月至十月中旬**
 
-* 做题链接：即将公布
-* [第一阶段环境配置与学习资料](https://github.com/uestc-workshop-os-camp/rust-based-os-camp-info/blob/main/2026-info-1.md)
+* [第一阶段环境配置与资料](https://github.com/uestc-workshop-os-camp/rust-based-os-camp-info/blob/main/2026-info-1.md)
 
 ### 第二阶段：rCore 实验
 
 **十月中旬至十一月中旬**
 
-* 做题链接：即将公布
-* [第二阶段环境配置与学习资料](https://github.com/uestc-workshop-os-camp/rust-based-os-camp-info/blob/main/2026-info-2.md)
+* [第二阶段环境配置与资料](https://github.com/uestc-workshop-os-camp/rust-based-os-camp-info/blob/main/2026-info-2.md)
 
 ## RDMA 方向
 
